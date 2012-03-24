@@ -1,0 +1,1 @@
+cuda-npp: A Haskell binding to NPP, the NVIDIA Performance Primatives library that ships with CUDA.

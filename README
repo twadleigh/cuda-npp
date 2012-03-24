@@ -1,1 +1,15 @@
-cuda-npp: A Haskell binding to NPP, the NVIDIA Performance Primatives library that ships with CUDA.
+cuda-npp: A Haskell binding to the NVIDIA Performance Primitives library
+
+From NVIDIA Developer Zone:
+
+The NVIDIA Performance Primitives library (NPP) is a collection of GPU-
+accelerated image, video, and signal processing functions that deliver 5x 
+to 10x faster performance than comparable CPU-only implementations. Using 
+NPP, developers can take advantage of over 2000 (in CUDA 4.1) image 
+processing and  signal processing primitives to achieve significant 
+improvements in application performance in a matter of hours.
+
+Whether you are simply replacing CPU primitives with GPU-accelerated 
+versions or integrating NPP primitives with your existing GPU-accelerated 
+pipeline, NPP delivers high performance while reducing your development 
+time.
